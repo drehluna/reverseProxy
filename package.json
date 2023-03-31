@@ -1,0 +1,9 @@
+{
+  "name": "reverseProxy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
